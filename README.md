@@ -1,4 +1,13 @@
-### Hi there 👋
+#### 🔭 I’m currently working on Blogster Proj...
+
+
+<p align="center">
+	<a href="https://github.com/roshangrewal"><img src="https://img.shields.io/github/followers/roshangrewal.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/iiamRG"><img src="https://img.shields.io/twitter/follow/iiamRG?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/roshangrewal"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/roshangrewal"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+</p>
+
 
 <!--
 **roshangrewal/roshangrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
